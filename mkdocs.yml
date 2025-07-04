@@ -1,0 +1,115 @@
+site_name: TronLink 开发者文档
+site_description: TronLink 钱包开发者文档，包含移动端、插件钱包和 DApp 开发指南
+site_author: TronLink Team
+site_url: https://fentiaoflutter.github.io/tronlink-docs
+
+# 仓库信息
+repo_name: fentiaoflutter/tronlink-docs
+repo_url: https://github.com/fentiaoflutter/tronlink-docs
+edit_uri: edit/main/docs/
+
+# 主题配置
+theme:
+  name: material
+  language: zh
+  palette:
+    # 浅色主题
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-auto
+        name: 切换到深色主题
+    # 深色主题
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-auto
+        name: 切换到浅色主题
+
+  # 功能配置
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+
+  # 图标
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+
+# 导航配置
+nav:
+  - 首页: index.md
+  - 介绍: introduction.md
+  - HD 钱包: hd-wallets.md
+  - 移动端开发:
+    - 概述: mobile/index.md
+    - 资产管理:
+      - 概述: mobile/asset-management.md
+      - 自定义通证: mobile/asset-management/custom-tokens.md
+    - DeepLink:
+      - 概述: mobile/deeplink.md
+      - 打开钱包: mobile/deeplink/open-wallet.md
+      - 打开DApp: mobile/deeplink/open-dapp.md
+      - 登陆授权: mobile/deeplink/login-auth.md
+      - 转账: mobile/deeplink/transfer.md
+      - 交易签名: mobile/deeplink/transaction-signing.md
+      - 消息签名: mobile/deeplink/message-signing.md
+      - 回传消息码: mobile/deeplink/callback-codes.md
+    - DApp支持:
+      - 概述: mobile/dapp-support.md
+      - 集成TronLink: mobile/dapp-support/integrate-tronlink.md
+      - DApp浏览器: mobile/dapp-support/dapp-browser.md
+  - 插件钱包:
+    - 概述: plugin-wallet/index.md
+    - 主动请求功能:
+      - 概述: plugin-wallet/active-requests.md
+      - 连接网站: plugin-wallet/active-requests/connect-website.md
+      - 添加Token: plugin-wallet/active-requests/add-token.md
+    - 被动接收消息:
+      - 概述: plugin-wallet/passive-messages.md
+      - 账户改变消息: plugin-wallet/passive-messages/account-change.md
+      - 网络改变消息: plugin-wallet/passive-messages/network-change.md
+      - 连接网站成功消息: plugin-wallet/passive-messages/connect-success.md
+      - 断开连接网站消息: plugin-wallet/passive-messages/disconnect.md
+      - 即将废弃的消息: plugin-wallet/passive-messages/deprecated-messages.md
+  - DApp 开发:
+    - 概述: dapp/index.md
+    - 开始开发: dapp/getting-started.md
+    - 多签转账: dapp/multi-sign-transfer.md
+    - 消息签名: dapp/message-signing.md
+    - 普通转账: dapp/transfer.md
+    - Stake2.0: dapp/stake2.md
+
+# 插件配置
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# 额外配置
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-username/tronlink-docs
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/tronlink
+
+# 版权信息
+copyright: Copyright &copy; 2024 TronLink Team
+
+# 验证
+validation:
+  nav:
+    omitted_files: ignore
+  not_found: warn 
