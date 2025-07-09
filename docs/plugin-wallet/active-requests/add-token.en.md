@@ -37,17 +37,17 @@ Buttons on DApps allow users to directly add the specified tokens to the asset l
 
   * params: WatchAssetParams, the specific parameters are as follows:
 
-  * type: Only 'trc10', 'trc20', 'trc721' are supported now
+    * type: Only 'trc10', 'trc20', 'trc721' are supported now
 
-  * options:
+    * options:
 
-  * address: the contract address of the token or the token id, required
+        * address: the contract address of the token or the token id, required
 
-  * symbol: placeholder (currently unused), optional
+        * symbol: placeholder (currently unused), optional
 
-  * decimals: placeholder (currently unused), optional
+        * decimals: placeholder (currently unused), optional
 
-  * image: placeholder (currently unused), optional
+        * image: placeholder (currently unused), optional
 
 
 **Returns**

@@ -1,6 +1,6 @@
 # 用户主动连接网站消息
 
-#### **DEPRECATED**
+#### <span class="deprecated">DEPRECATED</span>
 
 消息标识： `connectWeb`
 

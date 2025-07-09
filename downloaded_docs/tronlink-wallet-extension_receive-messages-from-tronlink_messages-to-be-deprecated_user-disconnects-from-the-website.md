@@ -1,8 +1,3 @@
-  1. [TronLink Wallet Extension](/tronlink-wallet-extension)
-  2. [Receive messages from TronLink](/tronlink-wallet-extension/receive-messages-from-tronlink)
-  3. [Messages to Be Deprecated](/tronlink-wallet-extension/receive-messages-from-tronlink/messages-to-be-deprecated)
-
-
 
 # User disconnects from the website
 

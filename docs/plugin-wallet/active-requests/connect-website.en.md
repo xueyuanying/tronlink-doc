@@ -1,6 +1,8 @@
 # Connect Website
 
-**DEPRECATED** The methods in this section are deprecated and are expected to be removed in a few releases. The TRON community is discussing new specifications, you can go to [TRON-TIP](https://github.com/tronprotocol/tips/issues/463) to participate in the discussion.
+<span class="deprecated">DEPRECATED</span>
+
+The methods in this section are deprecated and are expected to be removed in a few releases. The TRON community is discussing new specifications, you can go to [TRON-TIP](https://github.com/tronprotocol/tips/issues/463) to participate in the discussion.
 
 **Connect Website**
 

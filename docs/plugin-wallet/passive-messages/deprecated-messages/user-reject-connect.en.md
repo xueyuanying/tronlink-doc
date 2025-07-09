@@ -1,6 +1,6 @@
 # User rejects connection
 
-**DEPRECATED** 
+<span class="deprecated">DEPRECATED</span>
 
 Message ID: `rejectWeb` 
 

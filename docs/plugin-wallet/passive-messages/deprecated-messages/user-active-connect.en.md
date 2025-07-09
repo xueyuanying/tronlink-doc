@@ -1,6 +1,10 @@
 # User requests to connect to the website
 
-**DEPRECATED** Message ID: `connectWeb` This message is generated when:
+<span class="deprecated">DEPRECATED</span>
+
+Message ID: `connectWeb` 
+
+This message is generated when:
 
   1. The user requests to connect to the website. 
   

@@ -1,8 +1,9 @@
 # User accepts connection
 
-**DEPRECATED** 
+<span class="deprecated">DEPRECATED</span>
 
 Message ID: `acceptWeb` 
+
 This message is generated when:
 
   1. The user accepts connection. 

@@ -1,6 +1,6 @@
 # 用户确定连接消息
 
-#### **DEPRECATED**
+<span class="deprecated">DEPRECATED</span>
 
 消息标识： `acceptWeb`
 

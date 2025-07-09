@@ -4,7 +4,9 @@ Message ID: `connect`
 
 **Overview**
 
-Developers can monitor this message for connection changes. This message is generated when:
+Developers can monitor this message for connection changes. 
+
+This message is generated when:
 
   1. The DApp requests a connection, and the user confirms the connection in the pop-up window
 

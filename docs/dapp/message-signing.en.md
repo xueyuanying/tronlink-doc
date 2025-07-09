@@ -11,9 +11,7 @@ The DApp sends a request asking the user to connect the wallet to the website, a
 **Specification**
 
 **Example**
-
-Copy
-    
+```shell
     
     if (window.tronLink.ready) {
       const tronweb = tronLink.tronWeb;
@@ -22,7 +20,7 @@ Copy
         const signedString = await tronweb.trx.sign(message);
       } catch (e) {}
     }
-
+```
 **Parameters**
 
 “tronLink.tronWeb.trx.sign” accepts a hexadecimal string as the parameter. The string represents the content to be signed.

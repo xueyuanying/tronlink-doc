@@ -41,13 +41,13 @@ DApp 提供按钮给用户， 直接将指定的 Token 添加到用户插件的�
 
     * options:
 
-      * address: token 的合约地址 或者 token id, 必传
+        * address: token 的合约地址 或者 token id, 必传
 
-      * symbol: 占位(目前未使用)，可选
+        * symbol: 占位(目前未使用)，可选
 
-      * decimals: 占位(目前未使用)，可选
+        * decimals: 占位(目前未使用)，可选
 
-      * image: 占位(目前未使用)，可选
+        * image: 占位(目前未使用)，可选
 
 **返回值**
 

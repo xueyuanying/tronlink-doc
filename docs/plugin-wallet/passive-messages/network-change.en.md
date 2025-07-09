@@ -4,7 +4,9 @@ Message ID: `setNode`
 
 **Overview**
 
-Developers can monitor this message to know network changes This message is generated when:
+Developers can monitor this message to know network changes 
+
+This message is generated when:
 
   1. When the user changes the network
 

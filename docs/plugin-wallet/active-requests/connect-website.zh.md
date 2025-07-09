@@ -1,6 +1,6 @@
 # 连接网站
 
-#### **DEPRECATED**
+<span class="deprecated">DEPRECATED</span>
 
 本小节的方法已废弃，预计将在几个版本后移除。TRON 社区正在讨论新的规范，可以到 [TRON-TIP](https://github.com/tronprotocol/tips/issues/463) 参与讨论。
 

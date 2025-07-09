@@ -1,8 +1,3 @@
-  1. [TronLink Wallet Extension](/tronlink-wallet-extension)
-  2. [Request TronLink Extension](/tronlink-wallet-extension/request-tronlink-extension)
-
-
-
 # Connect Website
 
 **DEPRECATED** The methods in this section are deprecated and are expected to be removed in a few releases. The TRON community is discussing new specifications, you can go to [TRON-TIP](https://github.com/tronprotocol/tips/issues/463) to participate in the discussion.

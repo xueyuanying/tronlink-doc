@@ -1,8 +1,9 @@
 # User disconnects from the website
 
-**DEPRECATED** 
+<span class="deprecated">DEPRECATED</span>
 
 Message ID: `disconnectWeb` 
+
 This message is generated when:
 
   1. User actively disconnect from the website. 

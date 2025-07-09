@@ -65,19 +65,19 @@ plugins:
               - Asset Management:
                 # - Home: mobile/asset-management.en.md
                 - Custom Token: mobile/asset-management/custom-tokens.en.md
-                - DeepLink:
-                  # - Home: mobile/deeplink.en.md
-                  - Open Wallet: mobile/deeplink/open-wallet.en.md
-                  - Open DApp: mobile/deeplink/open-dapp.md
-                  - Login by TronLink: mobile/deeplink/login-auth.en.md
-                  - Transfer: mobile/deeplink/transfer.md
-                  - Sign Transaction: mobile/deeplink/transaction-signing.en.md
-                  - Sign Message: mobile/deeplink/message-signing.en.md
-                  - Result Code: mobile/deeplink/callback-codes.en.md
-                - DApp Support:
-                  - Home: mobile/dapp-support.en.md
-                  - TronLink Integration: mobile/dapp-support/integrate-tronlink.md
-                  - DApp Explorer: mobile/dapp-support/dapp-browser.md
+              - DeepLink: 
+                - Home: mobile/deeplink.en.md
+                - Open Wallet: mobile/deeplink/open-wallet.en.md
+                - Open DApp: mobile/deeplink/open-dapp.md
+                - Login by TronLink: mobile/deeplink/login-auth.en.md
+                - Transfer: mobile/deeplink/transfer.md
+                - Sign Transaction: mobile/deeplink/transaction-signing.en.md
+                - Sign Message: mobile/deeplink/message-signing.en.md
+                - Result Code: mobile/deeplink/callback-codes.en.md
+              - DApp Support:
+                # - Home: mobile/dapp-support.en.md
+                - TronLink Integration: mobile/dapp-support/integrate-tronlink.md
+                - DApp Explorer: mobile/dapp-support/dapp-browser.md
             - TronLink Wallet Extension:
               # - Home: plugin-wallet/index.md
               - Request TronLink Extension:
@@ -111,13 +111,13 @@ plugins:
             # - 首页: index.zh.md
             - 介绍: introduction.zh.md
             - HD 钱包: hd-wallets.zh.md
-            - 移动端开发:
+            - 移动端:
               # - 概述: mobile/index.zh.md
               - 资产管理:
                 # - 概述: mobile/asset-management.zh.md
                 - 自定义通证: mobile/asset-management/custom-tokens.zh.md
               - DeepLink:
-                # - 概述: mobile/deeplink.zh.md
+                - 概述: mobile/deeplink.zh.md
                 - 打开钱包: mobile/deeplink/open-wallet.zh.md
                 - 打开DApp: mobile/deeplink/open-dapp.zh.md
                 - 登陆授权: mobile/deeplink/login-auth.zh.md
@@ -126,16 +126,16 @@ plugins:
                 - 消息签名: mobile/deeplink/message-signing.zh.md
                 - 回传消息码: mobile/deeplink/callback-codes.zh.md
               - DApp支持:
-                # - 概述: mobile/dapp-support.zh.md
+                - 概述: mobile/dapp-support.zh.md
                 - 集成TronLink: mobile/dapp-support/integrate-tronlink.zh.md
                 - DApp浏览器: mobile/dapp-support/dapp-browser.zh.md
             - 插件钱包:
               # - 概述: plugin-wallet/index.zh.md
-              - 主动请求功能:
+              - 主动请求TronLink插件功能:
                 # - 概述: plugin-wallet/active-requests.zh.md
                 - 连接网站: plugin-wallet/active-requests/connect-website.zh.md
                 - 添加Token: plugin-wallet/active-requests/add-token.zh.md
-              - 被动接收消息:
+              - 被动接收TronLink插件的消息:
                 # - 概述: plugin-wallet/passive-messages.zh.md
                 - 账户改变消息: plugin-wallet/passive-messages/account-change.zh.md
                 - 网络改变消息: plugin-wallet/passive-messages/network-change.zh.md

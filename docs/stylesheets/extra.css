@@ -5,16 +5,16 @@
 
 /* 区分一级导航样式 */
 .md-nav__item > .md-nav__link {
-  font-weight: bold;
+  font-weight: 500;
   color: #1C1D1F; /* 改成你想要的颜色 */
-  font-size: .6rem;
+  font-size: .65rem;
 }
 
 /* 子导航（非一级）维持原样或设为更淡 */
 .md-nav__item .md-nav__link + .md-nav {
-  font-weight: normal;
+  font-weight: 400;
   color: #000;
-  font-size: .7rrem;
+  font-size: .75rem;
 }
 
 .md-nav__item > .md-nav__link.md-nav__link--active{
@@ -44,6 +44,15 @@
 
 .md-content {
   order: 1;
+}
+
+.deprecated {
+  color: red;
+  font-weight: bold;
+  background-color: #ffe6e6;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.95em;
 }
 
 /* Override the responsive design part of the footer. */
