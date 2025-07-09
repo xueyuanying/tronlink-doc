@@ -1,9 +1,4 @@
----
-title: Stake2.0
-layout: docs
-category: dapp
-parent: dapp
----
+# Stake2.0
 
 DApp 生成质押2.0交易的时候，对于`DelegateResourceContract` 或者`UnDelegateResourceContract` 类型的交易，想要在签名时使用 tronlink 插件展示预估结果，需要向交易体添加 __options 字段。
 

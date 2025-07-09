@@ -1,8 +1,4 @@
----
-title: 介绍
-layout: docs
-category: basic
----
+# Introduction
 
 TRON is a robust blockchain ecosystem designed and developed by blockchain developers all over the world, which follows the philosophy of "Decentralize the Web".
 

@@ -1,9 +1,4 @@
----
-title: 自定义通证
-layout: docs
-category: mobile
-parent: mobile/asset-management
----
+# 自定义通证
 
 ## **什么是自定义通证**
 

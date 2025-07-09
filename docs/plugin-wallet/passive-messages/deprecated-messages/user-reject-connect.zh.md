@@ -1,9 +1,4 @@
----
-title: 用户拒绝连接消息
-layout: docs
-category: plugin
-parent: plugin-wallet/passive-messages/deprecated-messages
----
+# 用户拒绝连接消息
 
 #### **DEPRECATED**
 
@@ -18,7 +13,6 @@ parent: plugin-wallet/passive-messages/deprecated-messages
 开发者可以监听此消息来获取用户拒绝连接消息
 
 ```shell
-
     window.addEventListener('message', function (e) {
       if (e.data.message && e.data.message.action == "rejectWeb") {
           // handler logic

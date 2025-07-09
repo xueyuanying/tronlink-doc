@@ -1,9 +1,4 @@
----
-title: 连接网站成功消息
-layout: docs
-category: plugin
-parent: plugin-wallet/passive-messages
----
+# 连接网站成功消息
 
 消息标识： `connect`
 

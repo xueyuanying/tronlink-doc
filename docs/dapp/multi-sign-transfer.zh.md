@@ -1,9 +1,4 @@
----
-title: 多签转账
-layout: docs
-category: dapp
-parent: dapp
----
+# 多签转账
 
 **简介**
 

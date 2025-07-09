@@ -1,9 +1,4 @@
----
-title: 普通转账
-layout: docs
-category: dapp
-parent: dapp
----
+# 普通转账
 
 **简介**
 

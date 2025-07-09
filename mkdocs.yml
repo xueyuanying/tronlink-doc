@@ -16,7 +16,7 @@ theme:
   # 功能配置
   features:
     - navigation.sections
-    - navigation.expand
+    # - navigation.expand
     - navigation.top
     - search.suggest
     - search.highlight

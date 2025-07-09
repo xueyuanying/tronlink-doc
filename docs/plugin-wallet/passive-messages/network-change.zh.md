@@ -1,9 +1,4 @@
----
-title: 网络改变消息
-layout: docs
-category: plugin
-parent: plugin-wallet/passive-messages
----
+# 网络改变消息
 
 消息标识： `setNode`
 

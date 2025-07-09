@@ -1,9 +1,4 @@
----
-title: 连接网站
-layout: docs
-category: plugin
-parent: plugin-wallet/active-requests
----
+# 连接网站
 
 #### **DEPRECATED**
 

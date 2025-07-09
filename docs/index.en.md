@@ -1,9 +1,4 @@
----
-title: TronLink 开发者文档
-layout: docs
----
-
-# TronLink 开发者文档英文
+# TronLink Docs
 
 欢迎使用 TronLink 开发者文档！TronLink 是波场 TRON 生态的去中心化钱包，提供完整的开发者工具和 API。
 

@@ -1,9 +1,5 @@
----
-title: 账户改变消息
-layout: docs
-category: plugin
-parent: plugin-wallet/passive-messages
----
+
+# 账户改变消息
 
 消息标识： `accountsChanged`
 

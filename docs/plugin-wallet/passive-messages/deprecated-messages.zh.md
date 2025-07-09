@@ -1,9 +1,4 @@
----
-title: 即将废弃的消息
-layout: docs
-category: plugin
-parent: plugin-wallet/passive-messages
----
+# 即将废弃的消息
 
 以下四个消息在未来4.x版本将会被废弃
 

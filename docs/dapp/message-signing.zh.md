@@ -1,9 +1,4 @@
----
-title: 消息签名
-layout: docs
-category: dapp
-parent: dapp
----
+# 消息签名
 
 **简介**
 

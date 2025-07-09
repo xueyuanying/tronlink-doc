@@ -1,10 +1,3 @@
----
-title: 自定义通证
-layout: docs
-category: mobile
-parent: mobile/asset-management
----
-
 # Custom Token
 
 ## What is Custom Token?

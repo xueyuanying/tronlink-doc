@@ -1,10 +1,4 @@
----
-title: 添加Token
-layout: docs
-category: plugin
-parent: plugin-wallet/active-requests
----
-
+# 添加Token
 **简介**
 
 DApp 提供按钮给用户， 直接将指定的 Token 添加到用户插件的资产展示列表中。

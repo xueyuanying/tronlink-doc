@@ -1,9 +1,4 @@
----
-title: 断开连接网站消息
-layout: docs
-category: plugin
-parent: plugin-wallet/passive-messages
----
+# 断开连接网站消息
 
 消息标识： `disconnect`
 
