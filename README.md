@@ -49,15 +49,6 @@ mkdocs build
 
 构建后的文件将保存在 `site/` 目录中。
 
-## 📝 贡献指南
-
-我们欢迎社区贡献！请按照以下步骤：
-
-1. Fork 本仓库
-2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
-3. 提交更改 (`git commit -m 'Add some amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 创建 Pull Request
 
 ## 🔧 技术栈
 
@@ -66,9 +57,6 @@ mkdocs build
 - [GitHub Pages](https://pages.github.com/) - 托管服务
 - [GitHub Actions](https://github.com/features/actions) - 自动部署
 
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
 ## 🤝 联系我们
 
