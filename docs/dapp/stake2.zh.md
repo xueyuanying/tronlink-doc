@@ -13,7 +13,7 @@ __options 内部有两个值 `estimatedBandwidth，estimatedEnergy` ，分别对
 
 resource 对应 `'BANDWIDTH'，'ENERGY'`。
 
-![](https://docs-zh.tronlink.org/~gitbook/image?url=https%3A%2F%2F1166523713-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FCXoQmcUHNY97twQ2Y2PY%252Fuploads%252FQEIMfPng69F1p3qKJwfu%252Fimage1.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=938407c6&sv=2)
+![image](../images/dapp_stake2.0_img_0.jpg)
 
 代码示例：
 
@@ -23,6 +23,6 @@ resource 对应 `'BANDWIDTH'，'ENERGY'`。
     transaction.__options = {"estimatedBandwidth": 1}
 ```
 
-estimatedEnergy estimatedBandwidth 的具体计算逻辑见![](https://docs-zh.tronlink.org/~gitbook/image?url=https%3A%2F%2F1166523713-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FCXoQmcUHNY97twQ2Y2PY%252Fuploads%252FXBi2ghdtBKVhNXcAhoNV%252Fimage2.png%3Falt%3Dmedia&width=300&dpr=4&quality=100&sign=56a9a3dd&sv=2)[Stake 2.0 Adaption FAQ](https://www.google.com/url?q=https://coredevs.medium.com/stake-2-0-adaption-faq-66bafdf53606&sa=D&source=editors&ust=1684151119972747&usg=AOvVaw0msvWulJZhW6xn5QU461cb) 最后一个章节：How to convert resource share to amount?
+estimatedEnergy estimatedBandwidth 的具体计算逻辑见![image](../images/dapp_skake2.0_img_1.png)[Stake 2.0 Adaption FAQ](https://www.google.com/url?q=https://coredevs.medium.com/stake-2-0-adaption-faq-66bafdf53606&sa=D&source=editors&ust=1684151119972747&usg=AOvVaw0msvWulJZhW6xn5QU461cb) 最后一个章节：How to convert resource share to amount?
 
 

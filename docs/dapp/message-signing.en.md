@@ -44,7 +44,9 @@ If an error occurs, the following information will be returned:
 
 **Interaction**
 
-When “tronweb.trx.sign(message);” is executed, a pop-up window will show in the TronLink wallet asking the user to confirm, as shown below. The message content will be in hex: ![](https://docs.tronlink.org/~gitbook/image?url=https%3A%2F%2F1639117838-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FDolSJpJ5tqTIRP95VixZ%252Fuploads%252FjFRokaonXGLZXF3BnhGb%252Fmessage-sign.jpg%3Falt%3Dmedia%26token%3De787d028-9ee7-4853-a7ab-e0aac02d900a&width=300&dpr=4&quality=100&sign=36d6a9be&sv=2)
+When “tronweb.trx.sign(message);” is executed, a pop-up window will show in the TronLink wallet asking the user to confirm, as shown below. The message content will be in hex: 
+
+![image](../images/dapp_message-signature_img_0.jpg)
 
 If the user chooses “Reject” in the pop-up window, an exception will be thrown, which the developer can catch for further processing.
 

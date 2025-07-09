@@ -43,45 +43,16 @@ TronLink supports TRX transfers, contract signature, authorization, etc. initiat
       message: string
     }
 ```
-
-Error Code
-
-Description
-
-Message
-
-null
-
-Wallet is locked
-
-Empty string
-
-200
-
-The site has previously been allowed to connect
-
-The site is already in the whitelist
-
-200
-
-The user approved the connection
-
-User allowed the request.
-
-4000
-
-The same DApp has already initiated a request to connect to the website, and the pop-up window has not been closed
-
-Authorization requests are being processed, please do not resubmit
-
-4001
-
-The user rejected connection
-
-User rejected the request
+| Error Code | Description | Message |
+|:-------|:-------|:-------|
+| null  | Wallet is locked   | Empty string  |
+| 200  | The site has previously been allowed to connect   | The site is already in the whitelist  |
+| 200  | The user approved the connection   | User allowed the request.  |
+| 4000  | The same DApp has already initiated a request to connect to the website, and the pop-up window has not been closed   | Authorization requests are being processed, please do not resubmit  |
+| 4001  | The user rejected connection   | User rejected the request  |
 
 **Interaction**
 
-After triggering ‘tron_requestAccounts‘, there will be a pop-up window asking for confirmation: ![](https://docs.tronlink.org/~gitbook/image?url=https%3A%2F%2F1639117838-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FDolSJpJ5tqTIRP95VixZ%252Fuploads%252FF5b1VFsodBcpfPkwkg4I%252Fconnect-website.jpg%3Falt%3Dmedia%26token%3D6bca9cfe-e17b-4d63-8cf8-1e247eb46fd4&width=300&dpr=4&quality=100&sign=232a1466&sv=2)
+After triggering ‘tron_requestAccounts‘, there will be a pop-up window asking for confirmation: 
 
-[PreviousRequest TronLink Extension](/tronlink-wallet-extension/request-tronlink-extension)[NextAdd Token](/tronlink-wallet-extension/request-tronlink-extension/add-token)
+![image](../../images/tronlink-wallet-extension_request-tronlink-extension_connect-website_img_0.jpg)

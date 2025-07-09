@@ -13,8 +13,7 @@ parent: plugin-wallet/passive-messages/deprecated-messages
 
   1. 用户主动断接网站
 
-![](https://docs-zh.tronlink.org/~gitbook/image?url=https%3A%2F%2F1166523713-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FCXoQmcUHNY97twQ2Y2PY%252Fuploads%252FbjCWnFVkxhg5X5RVYJhK%252FdisconnectWeb.png%3Falt%3Dmedia%26token%3Ddca1c604-6316-4665-810c-71434143f6ad&width=300&dpr=4&quality=100&sign=92065387&sv=2)
-
+![image](../../../images/tronlink-wallet-extension_receive-messages-from-tronlink_messages-to-be-deprecated_user-disconnects-from-the-website_img_0.jpg)
 开发者可以监听此消息来获取用户主动断连消息
 
 ```shell

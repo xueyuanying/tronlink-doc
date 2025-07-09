@@ -1,10 +1,4 @@
----
-title: 消息签名
-layout: docs
-category: mobile
-parent: mobile/deeplink
----
-
+# Sign Message
 ```shell 
     // Tronlink-v4.11.0
     <a href='tronlinkoutside://pull.activity?param={}'>Sign message</a>

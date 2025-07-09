@@ -2,7 +2,7 @@
 
 **Overview**
 
-For this section, you may refer to [General Transfer](/dapp/general-transfer)
+For this section, you may refer to [General Transfer](transfer.en.md)
 
 **Specification**
 

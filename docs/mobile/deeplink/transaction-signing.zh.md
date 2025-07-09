@@ -3,7 +3,7 @@
 ```shell 
     // Tronlink-v4.11.0
     // 链接
-    Sign transaction
+    <a href='tronlinkoutside://pull.activity?param={}'>Sign transaction</a>
 ```
 ```shell 
     // request parameter

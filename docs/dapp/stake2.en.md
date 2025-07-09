@@ -8,7 +8,7 @@ When generating stake 2.0 transactions using a non-tronlink extension injected t
 
 The "__resource" field corresponds to the values "BANDWIDTH" and "ENERGY".
 
-![](https://docs.tronlink.org/~gitbook/image?url=https%3A%2F%2F1639117838-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FDolSJpJ5tqTIRP95VixZ%252Fuploads%252FsrTq5GWES6Pys74GW6pY%252Fimage.png%3Falt%3Dmedia%26token%3D13f5fcdd-daba-42a0-8bc8-de93c6b745ee&width=768&dpr=4&quality=100&sign=3c7442&sv=2)
+![image](../images/dapp_stake2.0_img_0.jpg)
 
 For example:
 

@@ -1,15 +1,10 @@
----
-title: 打开钱包
-layout: docs
-category: mobile
-parent: mobile/deeplink
----
+# 打开钱包
 
 ### 使用 DeepLink 方式唤起钱包
 ```shell 
     // Tronlink-v4.10.0
     // 链接
-    Open Tronlink
+    <a href='tronlinkoutside://pull.activity?param={}'>Open Tronlink</a>
 ```
 ```shell 
     // param的参数为json格式的协议数据

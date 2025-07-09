@@ -7,7 +7,7 @@ parent: dapp
 
 **简介**
 
-此处可参考[普通转账](https://docs-zh.tronlink.org/dapp/pu-tong-zhuan-zhang)
+此处可参考[普通转账](transfer.zh.md)
 
 **技术规范**
 

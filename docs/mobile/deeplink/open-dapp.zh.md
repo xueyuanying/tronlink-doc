@@ -1,8 +1,9 @@
+# 打开DApp
 ### 使用 DeepLink 方式唤起钱包，并在 DApp 浏览器中打开 DApp
 ```shell 
     // Tronlink-v4.10.0
     // 链接
-    Open DApp
+    <a href='tronlinkoutside://pull.activity?param={}'>Open DApp</a>
 ```
 ```shell 
     // param的参数为json格式的协议数据

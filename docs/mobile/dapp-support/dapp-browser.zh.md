@@ -1,9 +1,4 @@
----
-title: DApp浏览器
-layout: docs
-category: mobile
-parent: mobile/dapp-support
----
+# Dapp 浏览器
 
 ### 基本功能
 
@@ -15,10 +10,9 @@ DApp 浏览器支持运行 TRON DApp，并自动注入 tronWeb 及 tronLink 对�
 
   * 切换屏幕方向
 
-Copy
-        
+```shell   
         // url: DApp page url
         // screenModel: "1" -> 竖屏；"2" -> 横屏
         public void setScreenModel(String url, String screenModel)
-
+```
 

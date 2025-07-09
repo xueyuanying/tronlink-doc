@@ -1,13 +1,8 @@
----
-title: DeepLink
-layout: docs
-category: mobile
-parent: mobile
----
+# DeepLink
 
 DApp、H5应用可以使用 DeepLink 方式拉起 TronLink App 进行打开钱包，登录，转账，签名交易，字符串签名，在钱包中打开 DApp 等操作。
 
-![](https://docs-zh.tronlink.org/~gitbook/image?url=https%3A%2F%2Flh6.googleusercontent.com%2FuKSGCKV6fy50SUWexJGb61yh9zYf4Mffs1rxKoXZdLdGuvMuV_YYza_LoKQHQjhWlDEcQ00IuVYAc3elfq1mn8BgqmDO7INNwLx-3rENNF0W8GDIWmgUye1CE_XMXbycl2CRohi4Gc0S8owZFuLcZ3NFZjn-jwTIfLvW5G6ReNBGpTn3-_sMQ1RWZQ&width=768&dpr=4&quality=100&sign=8d9ce173&sv=2)
+![image](../images/tronlink-app_deeplink_img_0.jpg)
 
 操作流程图
 

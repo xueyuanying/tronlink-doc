@@ -3,6 +3,10 @@ site_description: TronLink 钱包开发者文档，包含移动端、插件钱�
 site_author: TronLink Team
 site_url: https://xueyuanying.github.io/tronlink-doc/
 
+# 仓库信息
+repo_name: tronlink-doc
+repo_url: https://github.com/xueyuanying/tronlink-doc
+
 # 主题配置
 theme:
   name: material

@@ -1,16 +1,11 @@
----
-title: 登陆授权
-layout: docs
-category: mobile
-parent: mobile/deeplink
----
+# 登陆授权
 
 使用Deeplink方式唤起钱包，并在钱包中选择获取钱包地址
 
 ```shell 
     // Tronlink-v4.11.0
     // 链接
-    Login/Request Address
+    <a href='tronlinkoutside://pull.activity?param={}'>Login/Request Address</a>
 ```
 
 ```shell 

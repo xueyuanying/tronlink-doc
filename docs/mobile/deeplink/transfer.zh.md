@@ -1,4 +1,4 @@
-#转账
+# 转账
 
 使用DeepLink方式唤起TronLink，并发送转账数据，在钱包中转账并广播
 
@@ -6,7 +6,7 @@
 
     // Tronlink-v4.11.0
     // 链接
-    Transfer
+    <a href='tronlinkoutside://pull.activity?param={}'>Transfer</a>
 ```
 ```shell
     {

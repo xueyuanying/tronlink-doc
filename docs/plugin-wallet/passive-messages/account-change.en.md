@@ -68,8 +68,6 @@ This message is generated when:
 
 
 ```shell
-    
-    
     {
       "data": {
         "address": "TRKb2nAnCBfwxnLxgoKJro6VbyA6QmsuXq" // Newly selected account address
@@ -82,8 +80,6 @@ This message is generated when:
 
 
 ```shell
-    
-    
     {
       "data": {
         "address": false

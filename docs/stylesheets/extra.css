@@ -17,6 +17,10 @@
   font-size: .7rrem;
 }
 
+.md-nav__item > .md-nav__link.md-nav__link--active{
+  color: #3C7CF3;
+}
+
 /* 隐藏右侧二级导航 */
 .md-sidebar--secondary{
   display: none!important;
@@ -41,6 +45,7 @@
 .md-content {
   order: 1;
 }
+
 /* Override the responsive design part of the footer. */
 @media screen and (max-width: 44.984375em) {
   .md-footer__link--prev .md-footer__title {

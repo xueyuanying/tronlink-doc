@@ -1,3 +1,5 @@
+# Open Wallet
+
 ### Launch TronLink wallet via DeepLink
 
 ```shell  
