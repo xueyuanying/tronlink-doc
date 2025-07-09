@@ -22,7 +22,7 @@
 #### 3. 部署流程
 - 只在 main 分支上触发部署
 - 使用 GitHub Pages 环境
-- 自动部署到 https://fentiaoflutter.github.io/tronlink-docs
+- 自动部署到 https://xueyuanying.github.io/tronlink-doc
 
 ### 部署步骤
 
@@ -73,7 +73,7 @@ deployment-plan.md          # 部署计划文档
 ## 注意事项
 
 - 部署只在 main 分支上进行
-- 构建产物存储在 `./site` 目录
+- 构建产物存储在 `./site1` 目录
 - 使用 MkDocs Material 主题
 - 支持中文文档
 - 包含搜索和代码高亮功能 
