@@ -76,11 +76,11 @@ DApp 提供按钮给用户， 直接将指定的 Token 添加到用户插件的�
 ```
 代码执行时，TronLink 会弹出添加窗口，用户点击确定添加 TRC10 资产，或者取消添加。
 
-![image](../../images/tronlink-wallet-extension_request-tronlink-extension_add-token_img_0.jpg)
+![image](../../images/zh_cha-jian-qian-bao_zhu-dong-qing-qiu-tronlink-cha-jian-gong-neng_tian-jia-token_img_0.jpg)
 
 点击“添加”按钮，资产被添加到资产列表，如下图所示：
 
-![image](../../images/tronlink-wallet-extension_request-tronlink-extension_add-token_img_1.jpg)
+![image](../../images/zh_cha-jian-qian-bao_zhu-dong-qing-qiu-tronlink-cha-jian-gong-neng_tian-jia-token_img_1.jpg)
 
 
 **添加 TRC20 资产**
@@ -104,12 +104,12 @@ DApp 提供按钮给用户， 直接将指定的 Token 添加到用户插件的�
 ```
 代码执行时，TronLink 会弹出添加窗口，用户点击确定添加 TRC20 资产，或者取消添加。
 
-![image](../../images/tronlink-wallet-extension_request-tronlink-extension_add-token_img_2.jpg)
+![image](../../images/zh_cha-jian-qian-bao_zhu-dong-qing-qiu-tronlink-cha-jian-gong-neng_tian-jia-token_img_2.jpg)
 
 
 点击“添加”按钮，资产被添加到资产列表，如下图所示：
 
-![image](../../images/tronlink-wallet-extension_request-tronlink-extension_add-token_img_3.jpg)
+![image](../../images/zh_cha-jian-qian-bao_zhu-dong-qing-qiu-tronlink-cha-jian-gong-neng_tian-jia-token_img_3.jpg)
 
 
 **添加 TRC721 资产**
@@ -133,12 +133,12 @@ DApp 提供按钮给用户， 直接将指定的 Token 添加到用户插件的�
 ```
 代码执行时，TronLink 会弹出添加窗口，用户点击确定添加 TRC721 资产，或者取消添加。
 
-![image](../../images/tronlink-wallet-extension_request-tronlink-extension_add-token_img_4.jpg)
+![image](../../images/zh_cha-jian-qian-bao_zhu-dong-qing-qiu-tronlink-cha-jian-gong-neng_tian-jia-token_img_4.jpg)
 
 
 点击”添加”按钮，资产被添加到资产列表，如下图所示：
 
-![image](../../images/tronlink-wallet-extension_request-tronlink-extension_add-token_img_5.jpg)
+![image](../../images/zh_cha-jian-qian-bao_zhu-dong-qing-qiu-tronlink-cha-jian-gong-neng_tian-jia-token_img_5.jpg)
 
 
 

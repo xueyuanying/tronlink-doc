@@ -68,6 +68,6 @@ TronLink 提供外部发起 TRX 转账，合约签名，授权等功能，基于
 
 触发`tron_requestAccounts`之后，会打开连接确认的弹窗：
 
-![image](../../images/tronlink-wallet-extension_request-tronlink-extension_connect-website_img_0.jpg)
+![image](../../images/zh_cha-jian-qian-bao_zhu-dong-qing-qiu-tronlink-cha-jian-gong-neng_lian-jie-wang-zhan_img_0.jpg)
 
 

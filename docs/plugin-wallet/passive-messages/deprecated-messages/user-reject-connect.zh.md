@@ -8,7 +8,7 @@
 
   1. DApp 请求连接，用户在弹窗中拒绝连接后
 
-![image](../../../images/tronlink-wallet-extension_receive-messages-from-tronlink_messages-to-be-deprecated_user-rejects-connection_img_0.jpg)
+![image](../../../images/zh_cha-jian-qian-bao_bei-dong-jie-shou-tronlink-cha-jian-de-xiao-xi_ji-jiang-fei-qi-de-xiao-xi_yong-hu-ju-jue-lian-jie-xiao-xi_img_0.jpg)
 
 开发者可以监听此消息来获取用户拒绝连接消息
 
