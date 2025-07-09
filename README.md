@@ -25,8 +25,8 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/fentiaoflutter/tronlink-docs.git
-cd tronlink-docs
+git clone git@github.com:xueyuanying/tronlink-doc.git
+cd tronlink-doc
 ```
 
 2. 安装依赖
@@ -61,8 +61,6 @@ mkdocs build
 ## 🤝 联系我们
 
 - 官方网站：https://www.tronlink.org/
-- GitHub Issues：https://github.com/fentiaoflutter/tronlink-docs/issues
-- 开发者社区：https://github.com/fentiaoflutter/tronlink-docs/discussions
 
 ## 📚 相关链接
 
