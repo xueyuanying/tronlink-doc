@@ -1,0 +1,63 @@
+:root {
+  --md-primary-fg-color: #3C7CF3;        /* 主色调 */
+  --md-accent-fg-color: #3C7CF3;         /* 强调色 */
+}
+
+/* 区分一级导航样式 */
+.md-nav__item > .md-nav__link {
+  font-weight: 500;
+  color: #1C1D1F; /* 改成你想要的颜色 */
+  font-size: .65rem;
+}
+
+/* 子导航（非一级）维持原样或设为更淡 */
+.md-nav__item .md-nav__link + .md-nav {
+  font-weight: 400;
+  color: #000;
+  font-size: .75rem;
+}
+
+.md-nav__item > .md-nav__link.md-nav__link--active{
+  color: #3C7CF3;
+}
+
+/* 隐藏右侧二级导航 */
+.md-sidebar--secondary{
+  display: none!important;
+}
+
+.md-sidebar {
+    padding-top: 0; /* 移除顶部内边距 */
+}
+
+.md-footer {
+  background-color: var(--md-default-bg-color);
+}
+
+.md-footer {
+  display: none !important;  /* 隐藏底部导航 */
+}
+
+.md-sidebar--secondary {
+  order: 2;
+}
+
+.md-content {
+  order: 1;
+}
+
+.deprecated {
+  color: red;
+  font-weight: bold;
+  background-color: #ffe6e6;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
+
+/* Override the responsive design part of the footer. */
+@media screen and (max-width: 44.984375em) {
+  .md-footer__link--prev .md-footer__title {
+    display: block;
+  }
+}
