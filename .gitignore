@@ -1,5 +1,4 @@
 # MkDocs 构建产物
-site/
 
 # Python
 __pycache__/
