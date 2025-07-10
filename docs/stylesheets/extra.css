@@ -55,6 +55,19 @@
   font-size: 0.95em;
 }
 
+a.card-link {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.2s;
+  width: 48%;
+}
+a.card-link:hover {
+  background: #f5f5f5;
+}
+
 /* Override the responsive design part of the footer. */
 @media screen and (max-width: 44.984375em) {
   .md-footer__link--prev .md-footer__title {

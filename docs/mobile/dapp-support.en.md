@@ -1,5 +1,13 @@
 
 # DApp Support
 
-[TronLink Integration](/dapp-support/tronlink-integration)
-[DApp Explorer](/dapp-support/dapp-explorer)
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+
+<a class="card-link" href="integrate-tronlink">
+  <strong>TronLink Integration</strong> →
+</a>
+<a class="card-link" href="dapp-browser">
+  <strong>DApp Explorer</strong> →
+</a>
+
+</div>
