@@ -48,7 +48,3 @@
 3. 按照示例代码进行集成
 4. 测试你的应用
 
-## 技术支持
-
-- [GitHub Issues](https://github.com/your-username/tronlink-docs/issues)
-- [社区讨论](https://github.com/your-username/tronlink-docs/discussions)

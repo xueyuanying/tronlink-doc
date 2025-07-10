@@ -12,7 +12,7 @@ DApp 开发者完成【连接网站】请求，用户同意连接。
 
 **代码示例**
 
-Copy
+```shell
 
     if (window.tronLink.ready) {
       const tronweb = tronLink.tronWeb;
@@ -21,6 +21,7 @@ Copy
         const signedString = await tronweb.trx.sign(message);
       } catch (e) {}
     }
+```
 
 **参数**
 

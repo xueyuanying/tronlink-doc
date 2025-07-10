@@ -1,54 +1,49 @@
 # TronLink Docs
 
-欢迎使用 TronLink 开发者文档！TronLink 是波场 TRON 生态的去中心化钱包，提供完整的开发者工具和 API。
+Welcome to the TronLink Developer Documentation! TronLink is a decentralized wallet for the TRON ecosystem, providing comprehensive developer tools and APIs.
 
-## 文档结构
+## Documentation Structure
 
-### 基础文档
-- [介绍](introduction) - 了解 TronLink 和波场生态
-- [HD 钱包](hd-wallets) - HD 钱包相关文档
+### Basic Documentation
+- [Introduction](introduction) - Learn about TronLink and the TRON ecosystem
+- [HD Wallets](hd-wallets) - HD wallet related documentation
 
-### 移动端开发
-- [资产管理](mobile/asset-management) - 资产管理功能
-  - [自定义通证](mobile/asset-management/custom-tokens) - 自定义通证管理
-- [DeepLink](mobile/deeplink) - DeepLink 集成
-  - [打开钱包](mobile/deeplink/open-wallet) - 打开钱包功能
-  - [打开DApp](mobile/deeplink/open-dapp) - 打开DApp功能
-  - [登陆授权](mobile/deeplink/login-auth) - 登陆授权功能
-  - [转账](mobile/deeplink/transfer) - 转账功能
-  - [交易签名](mobile/deeplink/transaction-signing) - 交易签名功能
-  - [消息签名](mobile/deeplink/message-signing) - 消息签名功能
-  - [回传消息码](mobile/deeplink/callback-codes) - 回传消息码
-- [DApp 支持](mobile/dapp-support) - DApp 浏览器支持
-  - [集成TronLink](mobile/dapp-support/integrate-tronlink) - 集成TronLink
-  - [DApp浏览器](mobile/dapp-support/dapp-browser) - DApp浏览器
+### Mobile Development
+- [Asset Management](mobile/asset-management) - Asset management features
+  - [Custom Tokens](mobile/asset-management/custom-tokens) - Custom token management
+- [DeepLink](mobile/deeplink) - DeepLink integration
+  - [Open Wallet](mobile/deeplink/open-wallet) - Open wallet functionality
+  - [Open DApp](mobile/deeplink/open-dapp) - Open DApp functionality
+  - [Login Authorization](mobile/deeplink/login-auth) - Login authorization functionality
+  - [Transfer](mobile/deeplink/transfer) - Transfer functionality
+  - [Transaction Signing](mobile/deeplink/transaction-signing) - Transaction signing functionality
+  - [Message Signing](mobile/deeplink/message-signing) - Message signing functionality
+  - [Callback Codes](mobile/deeplink/callback-codes) - Callback message codes
+- [DApp Support](mobile/dapp-support) - DApp browser support
+  - [Integrate TronLink](mobile/dapp-support/integrate-tronlink) - Integrate TronLink
+  - [DApp Browser](mobile/dapp-support/dapp-browser) - DApp browser
 
-### 插件钱包
-- [主动请求功能](plugin-wallet/active-requests) - 主动请求TronLink插件功能
-  - [连接网站](plugin-wallet/active-requests/connect-website) - 连接网站
-  - [添加Token](plugin-wallet/active-requests/add-token) - 添加Token
-- [被动接收消息](plugin-wallet/passive-messages) - 被动接收TronLink插件的消息
-  - [账户改变消息](plugin-wallet/passive-messages/account-change) - 账户改变消息
-  - [网络改变消息](plugin-wallet/passive-messages/network-change) - 网络改变消息
-  - [连接网站成功消息](plugin-wallet/passive-messages/connect-success) - 连接网站成功消息
-  - [断开连接网站消息](plugin-wallet/passive-messages/disconnect) - 断开连接网站消息
-  - [即将废弃的消息](plugin-wallet/passive-messages/deprecated-messages) - 即将废弃的消息
+### Plugin Wallet
+- [Active Request Functions](plugin-wallet/active-requests) - Active request TronLink plugin functions
+  - [Connect Website](plugin-wallet/active-requests/connect-website) - Connect website
+  - [Add Token](plugin-wallet/active-requests/add-token) - Add token
+- [Passive Message Reception](plugin-wallet/passive-messages) - Passively receive messages from TronLink plugin
+  - [Account Change Message](plugin-wallet/passive-messages/account-change) - Account change message
+  - [Network Change Message](plugin-wallet/passive-messages/network-change) - Network change message
+  - [Website Connection Success Message](plugin-wallet/passive-messages/connect-success) - Website connection success message
+  - [Disconnect Website Message](plugin-wallet/passive-messages/disconnect) - Disconnect website message
+  - [Deprecated Messages](plugin-wallet/passive-messages/deprecated-messages) - Deprecated messages
 
-### DApp 开发
-- [开始开发](dapp/getting-started) - 快速开始
-- [多签转账](dapp/multi-sign-transfer) - 多签转账功能
-- [消息签名](dapp/message-signing) - 消息签名
-- [普通转账](dapp/transfer) - 普通转账功能
-- [Stake2.0](dapp/stake2) - Stake2.0 功能
+### DApp Development
+- [Getting Started](dapp/getting-started) - Quick start guide
+- [Multi-Signature Transfer](dapp/multi-sign-transfer) - Multi-signature transfer functionality
+- [Message Signing](dapp/message-signing) - Message signing
+- [General Transfer](dapp/transfer) - General transfer functionality
+- [Stake2.0](dapp/stake2) - Stake2.0 functionality
 
-## 快速开始
+## Quick Start
 
-1. 选择你需要的功能模块
-2. 阅读相关文档
-3. 按照示例代码进行集成
-4. 测试你的应用
-
-## 技术支持
-
-- [GitHub Issues](https://github.com/your-username/tronlink-docs/issues)
-- [社区讨论](https://github.com/your-username/tronlink-docs/discussions)
+1. Choose the feature module you need
+2. Read the relevant documentation
+3. Follow the example code for integration
+4. Test your application
