@@ -8,7 +8,7 @@ Welcome to the TronLink Developer Documentation! TronLink is a decentralized wal
 - [Introduction](introduction) - Learn about TronLink and the TRON ecosystem
 - [HD Wallets](hd-wallets) - HD wallet related documentation
 
-### Mobile Development
+### TronLink App
 - [Asset Management](mobile/asset-management) - Asset management features
   - [Custom Tokens](mobile/asset-management/custom-tokens) - Custom token management
 - [DeepLink](mobile/deeplink) - DeepLink integration
@@ -34,15 +34,10 @@ Welcome to the TronLink Developer Documentation! TronLink is a decentralized wal
   - [Disconnect website message](plugin-wallet/passive-messages/disconnect) - Disconnect website message
   - [Messages to Be Deprecated](plugin-wallet/passive-messages/deprecated-messages) - Deprecated messages
 
-### DApp Development
+### DApp
 - [Start Developing](dapp/getting-started) - Quick start guide
 - [Multi-Signature Transfer](dapp/multi-sign-transfer) - Multi-signature transfer functionality
 - [Message Signature](dapp/message-signing) - Message signing
 - [General Transfer](dapp/transfer) - General transfer functionality
 - [Stake2.0](dapp/stake2) - Stake2.0 functionality
 
-## Quick Start
-1. Choose the feature module you need
-2. Read the relevant documentation
-3. Follow the example code for integration
-4. Test your application

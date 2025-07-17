@@ -3,24 +3,34 @@
   --md-accent-fg-color: #3C7CF3;         /* 强调色 */
 }
 
-/* 区分一级导航样式 */
-.md-nav__item > .md-nav__link {
+
+
+.md-nav__item > .md-nav__link >.md-ellipsis {
+  color: #1C1D1F;
+  font-size: 13px;
+}
+
+.md-nav__item .md-nav__item > .md-nav__link >.md-ellipsis,.md-nav--primary>.md-nav__list >.md-nav__item:first-child .md-nav__link>.md-ellipsis,.md-nav--primary>.md-nav__list >.md-nav__item:nth-child(2) .md-nav__link>.md-ellipsis{
   font-weight: 500;
-  color: #1C1D1F; /* 改成你想要的颜色 */
-  font-size: .65rem;
+  color: #6E6F70;
+  font-size: 14px;
 }
-
-/* 子导航（非一级）维持原样或设为更淡 */
-.md-nav__item .md-nav__link + .md-nav {
-  font-weight: 400;
-  color: #000;
-  font-size: .75rem;
+.md-nav__item .md-nav__item > .md-nav__link:hover >.md-ellipsis,.md-nav--primary>.md-nav__list >.md-nav__item:first-child .md-nav__link:hover>.md-ellipsis,.md-nav--primary>.md-nav__list >.md-nav__item:nth-child(2) .md-nav__link:hover>.md-ellipsis{
+color: #3C7CF3!important;
 }
-
+.md-nav__item > .md-nav__link.md-nav__link--active >.md-ellipsis{
+  color: #3C7CF3!important;
+}
 .md-nav__item > .md-nav__link.md-nav__link--active{
-  color: #3C7CF3;
+  color: #3C7CF3!important;
 }
-
+.md-nav__item .md-nav__item > .md-nav__link{
+  padding: 2px 0;
+  color:#B7B7B7;
+}
+.md-nav__item--section{
+  margin-top:30px;
+}
 /* 隐藏右侧二级导航 */
 .md-sidebar--secondary{
   display: none!important;
@@ -66,6 +76,10 @@ a.card-link {
 }
 a.card-link:hover {
   background: #f5f5f5;
+}
+
+.md-content__inner img{
+  max-width: 300px;
 }
 
 /* Override the responsive design part of the footer. */
