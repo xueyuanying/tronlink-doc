@@ -8,7 +8,7 @@
 - [介绍](introduction) - 了解 TronLink 和波场生态
 - [HD 钱包](hd-wallets) - HD 钱包相关文档
 
-### 移动端开发
+### 移动端
 - [资产管理](mobile/asset-management) - 资产管理功能
   - [自定义通证](mobile/asset-management/custom-tokens) - 自定义通证管理
 - [DeepLink](mobile/deeplink) - DeepLink 集成
@@ -34,17 +34,11 @@
   - [断开连接网站消息](plugin-wallet/passive-messages/disconnect) - 断开连接网站消息
   - [即将废弃的消息](plugin-wallet/passive-messages/deprecated-messages) - 即将废弃的消息
 
-### DApp 开发
+### DApp
 - [开始开发](dapp/getting-started) - 快速开始
 - [多签转账](dapp/multi-sign-transfer) - 多签转账功能
 - [消息签名](dapp/message-signing) - 消息签名
 - [普通转账](dapp/transfer) - 普通转账功能
 - [Stake2.0](dapp/stake2) - Stake2.0 功能
 
-## 快速开始
-
-1. 选择你需要的功能模块
-2. 阅读相关文档
-3. 按照示例代码进行集成
-4. 测试你的应用
 

@@ -61,12 +61,12 @@ plugins:
             - Introduction: introduction.en.md
             - HD Wallets: hd-wallets.en.md
             - TronLink App:
-              # - Home: mobile/index.en.md
+              # - Overview: mobile/index.en.md
               - Asset Management:
-                # - Home: mobile/asset-management.en.md
+                - Overview: mobile/asset-management.en.md
                 - Custom Token: mobile/asset-management/custom-tokens.en.md
               - DeepLink: 
-                - Home: mobile/deeplink.en.md
+                - Overview: mobile/deeplink.en.md
                 - Open Wallet: mobile/deeplink/open-wallet.en.md
                 - Open DApp: mobile/deeplink/open-dapp.md
                 - Login by TronLink: mobile/deeplink/login-auth.en.md
@@ -75,29 +75,29 @@ plugins:
                 - Sign Message: mobile/deeplink/message-signing.en.md
                 - Result Code: mobile/deeplink/callback-codes.en.md
               - DApp Support:
-                # - Home: mobile/dapp-support.en.md
+                - Overview: mobile/dapp-support.en.md
                 - TronLink Integration: mobile/dapp-support/integrate-tronlink.md
                 - DApp Explorer: mobile/dapp-support/dapp-browser.md
             - TronLink Wallet Extension:
-              # - Home: plugin-wallet/index.md
+              # - Overview: plugin-wallet/index.md
               - Request TronLink Extension:
-                # - Home: plugin-wallet/active-requests.en.md
+                - Overview: plugin-wallet/active-requests.en.md
                 - Connect Website: plugin-wallet/active-requests/connect-website.en.md
                 - Add Token: plugin-wallet/active-requests/add-token.en.md
               - Receive messages from TronLink:
-                # - Home: plugin-wallet/passive-messages.en.md
+                - Overview: plugin-wallet/passive-messages.en.md
                 - Account Change Message: plugin-wallet/passive-messages/account-change.en.md
                 - Network Change Message: plugin-wallet/passive-messages/network-change.en.md
                 - Successful connection message: plugin-wallet/passive-messages/connect-success.en.md
                 - Disconnect website message: plugin-wallet/passive-messages/disconnect.en.md
                 - Messages to Be Deprecated: 
-                  - Home: plugin-wallet/passive-messages/deprecated-messages.en.md
+                  - Overview: plugin-wallet/passive-messages/deprecated-messages.en.md
                   - User rejects connection: plugin-wallet/passive-messages/deprecated-messages/user-reject-connect.en.md
                   - User disconnects from the website: plugin-wallet/passive-messages/deprecated-messages/user-disconnect.en.md
                   - User accepts connection: plugin-wallet/passive-messages/deprecated-messages/user-confirm-connect.en.md
                   - User requests to connect to the website: plugin-wallet/passive-messages/deprecated-messages/user-active-connect.en.md
             - DApp:
-              # - Home: dapp/index.en.md
+              # - Overview: dapp/index.en.md
               - Start Developing: dapp/getting-started.en.md
               - Multi-Signature Transfer: dapp/multi-sign-transfer.en.md
               - Message Signature: dapp/message-signing.en.md
@@ -114,7 +114,7 @@ plugins:
             - 移动端:
               # - 概述: mobile/index.zh.md
               - 资产管理:
-                # - 概述: mobile/asset-management.zh.md
+                - 概述: mobile/asset-management.zh.md
                 - 自定义通证: mobile/asset-management/custom-tokens.zh.md
               - DeepLink:
                 - 概述: mobile/deeplink.zh.md
@@ -132,11 +132,11 @@ plugins:
             - 插件钱包:
               # - 概述: plugin-wallet/index.zh.md
               - 主动请求TronLink插件功能:
-                # - 概述: plugin-wallet/active-requests.zh.md
+                - 概述: plugin-wallet/active-requests.zh.md
                 - 连接网站: plugin-wallet/active-requests/connect-website.zh.md
                 - 添加Token: plugin-wallet/active-requests/add-token.zh.md
               - 被动接收TronLink插件的消息:
-                # - 概述: plugin-wallet/passive-messages.zh.md
+                - 概述: plugin-wallet/passive-messages.zh.md
                 - 账户改变消息: plugin-wallet/passive-messages/account-change.zh.md
                 - 网络改变消息: plugin-wallet/passive-messages/network-change.zh.md
                 - 连接网站成功消息: plugin-wallet/passive-messages/connect-success.zh.md
