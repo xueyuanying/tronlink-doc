@@ -1,6 +1,10 @@
 name: Publish Document
 
 on:
+  push:
+    branches:
+      - '**' # 监听所有分支
+  workflow_dispatch: # 仍保留手动触发的功能
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 jobs:
