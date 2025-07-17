@@ -23,6 +23,7 @@ jobs:
         sudo pip3 install mkdocs-material==9.6.8
         sudo pip3 install jieba==0.42.1
         sudo pip3 install mkdocs-minify-plugin
+        sudo pip3 install mkdocs-static-i18n
 
     - name: Build the document
       run: mkdocs build
