@@ -22,6 +22,7 @@ jobs:
         sudo pip3 install mkdocs-exclude
         sudo pip3 install mkdocs-material==9.6.8
         sudo pip3 install jieba==0.42.1
+        sudo pip3 install mkdocs-minify-plugin
 
     - name: Build the document
       run: mkdocs build
